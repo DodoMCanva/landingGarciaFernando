@@ -1,0 +1,18 @@
+.encabezado{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 20px;
+    background-color: #b3b8ff;
+    justify-content: center; 
+    text-align: center;
+
+}
+
+.contenido{
+    background-color: white;
+    margin-top: 15%;
+    justify-content: center; 
+    text-align: center;
+}
